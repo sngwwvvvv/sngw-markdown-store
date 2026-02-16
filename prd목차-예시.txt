@@ -1,0 +1,12 @@
+# 1. 타이틀 & 개요
+# 2. 기술 스택 (FastAPI, Streamlit, formulas 등)
+# 3. 데이터 도메인 스키마 (Input/Output 데이터 구조 정의)
+# 4. 기능적 요구사항 (User Story 중심)
+# 5. 업무 파이프라인 (Step-by-Step Flow)
+   - Step 1: Google Sheet 로드...
+   - Step 2: PDF 좌표 기반 추출...
+# 6. 세부 구현 가이드라인
+   - 6.1 PDF 파싱 규칙 (좌표 정의 및 텍스트 정제)
+   - 6.2 부양가족 LLM 프롬프트 규칙
+   - 6.3 엑셀 수식 계산 시 주의사항
+# 7. 에러 핸들링 및 예외 처리 규칙
